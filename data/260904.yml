@@ -1,11 +1,13 @@
 about:
-  description: A WIP TUI typing trainer inspired by monkeytype with a focus on customization
+  description:
+  |
+    A WIP TUI typing trainer inspired by monkeytype with a focus on customization
   license: MIT
   homepage: 
   head: ae7d714
   archived: false
   latestVersion: v0.8.0
-  collectedAt: 2026-09-04T05:01:20Z
+  collectedAt: 2026-09-04T19:55:08Z
 timeline:
   created: 2025-03-06
   lastCommit: 2026-08-15
@@ -16,20 +18,28 @@ popularity:
   fork: 2
   release: 9
   contributor: 2
-  pullRequest: 3
+  pullRequest: 50
   issue: 20
 language:
   Rust: 127928
   Nix: 3798
   Just: 959
   Shell: 70
-totalLine: 132755
+totalBytes: 132755
 recent:
   last30d:
     since: 2026-08-05
     release: 0
     mergedPR: 1
     openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 1
+    openPR: 1
     closedIssue: 0
     openIssue: 0
     commit: 1
@@ -57,3 +67,21 @@ recent:
     closedIssue: 15
     openIssue: 5
     commit: 188
+  last720d:
+    since: 2024-09-14
+    release: 9
+    mergedPR: 47
+    openPR: 1
+    closedIssue: 15
+    openIssue: 5
+    commit: 259
+total:
+  release: 9
+  mergedPR: 47
+  openPR: 1
+  closedIssue: 15
+  openIssue: 5
+  commit: 259
+---
+---
+
