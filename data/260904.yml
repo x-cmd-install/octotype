@@ -7,7 +7,7 @@ about:
   head: ae7d714
   archived: false
   latestVersion: v0.8.0
-  collectedAt: 2026-09-04T19:55:08Z
+  collectedAt: 2026-09-04T20:54:30Z
 timeline:
   created: 2025-03-06
   lastCommit: 2026-08-15
@@ -83,5 +83,63 @@ total:
   openIssue: 5
   commit: 259
 ---
+path: /home/runner/.x-repo/github.com/mahlquistj/octotype
+collectedAt: 2026-09-04T20:54:31Z
+loc:
+  Json:
+    code: 19332
+    comments: 0
+    blanks: 0
+    files: 3
+  Rust:
+    code: 3513
+    comments: 44
+    blanks: 549
+    files: 18
+  Svg:
+    code: 1081
+    comments: 2
+    blanks: 2
+    files: 5
+  Toml:
+    code: 264
+    comments: 1
+    blanks: 31
+    files: 13
+  TypeScript:
+    code: 119
+    comments: 6
+    blanks: 15
+    files: 2
+  Tsx:
+    code: 111
+    comments: 0
+    blanks: 6
+    files: 2
+  Nix:
+    code: 106
+    comments: 10
+    blanks: 11
+    files: 2
+  Css:
+    code: 54
+    comments: 11
+    blanks: 8
+    files: 3
+  Sh:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 762
+    blanks: 329
+    files: 16
+total:
+  code: 24746
+  comments: 907
+  blanks: 974
+  files: 65
 ---
 
