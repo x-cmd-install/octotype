@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.0"
   latestRelease: "v0.8.0"
   latestPrerelease: "0.3.2"
-  collectedAt: 2026-09-11T05:24:57Z
+  collectedAt: 2026-09-11T19:36:05Z
 timeline:
   created: 2025-03-06
   lastCommit: 2026-08-15
@@ -86,7 +86,7 @@ total:
   commit: 259
 ---
 path: /home/runner/.x-repo/github.com/mahlquistj/octotype
-collectedAt: 2026-09-11T05:24:59Z
+collectedAt: 2026-09-11T19:36:07Z
 loc:
   Json:
     code: 19332
