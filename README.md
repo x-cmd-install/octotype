@@ -4,7 +4,7 @@
 
 A WIP TUI typing trainer inspired by monkeytype with a focus on customization
 
-![octotype](https://repo.x-cmd.io/octotype.svg)
+[![x-cmd/install — octotype Code Quality Monitoring Repo Card](https://repo.x-cmd.io/octotype.svg)](https://x-cmd.com/install/octotype)
 
 ## Install
 
@@ -46,12 +46,12 @@ Total: **24,581** lines of code across **41** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-06-20 | 0 | 4 | 1 | 0 | 0 | 3 |
-| last180d | 2026-03-22 | 0 | 13 | 1 | 0 | 0 | 13 |
-| 360d | 2025-09-23 | 7 | 41 | 1 | 3 | 2 | 120 |
-| last720d | 2024-09-28 | 9 | 47 | 1 | 15 | 5 | 259 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-06-22 | 0 | 3 | 1 | 0 | 0 | 2 |
+| last180d | 2026-03-24 | 0 | 13 | 1 | 0 | 0 | 12 |
+| 360d | 2025-09-25 | 7 | 41 | 1 | 3 | 2 | 106 |
+| last720d | 2024-09-30 | 9 | 47 | 1 | 15 | 5 | 259 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for octotype lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:34:02Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:37:07Z._
