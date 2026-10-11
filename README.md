@@ -32,7 +32,7 @@ Total: **24,581** lines of code across **41** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.0` (2025-11-03)
-- **Last commit**: 2026-08-15
+- **Last commit**: 2026-10-11
 
 ## Popularity
 
@@ -40,18 +40,18 @@ Total: **24,581** lines of code across **41** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 47 · **Open PRs**: 1 · **Closed issues**: 15 · **Open issues**: 5 · **Commits**: 259
+- **Releases**: 9 · **Merged PRs**: 48 · **Open PRs**: 0 · **Closed issues**: 15 · **Open issues**: 5 · **Commits**: 260
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-07-12 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last180d | 2026-04-13 | 0 | 10 | 1 | 0 | 0 | 10 |
-| 360d | 2025-10-15 | 4 | 38 | 1 | 3 | 1 | 60 |
-| last720d | 2024-10-20 | 9 | 47 | 1 | 15 | 5 | 259 |
+| 30d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-07-13 | 0 | 1 | 0 | 0 | 0 | 2 |
+| last180d | 2026-04-14 | 0 | 11 | 0 | 0 | 0 | 11 |
+| 360d | 2025-10-16 | 4 | 39 | 0 | 3 | 1 | 60 |
+| last720d | 2024-10-21 | 9 | 48 | 0 | 15 | 5 | 260 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for octotype lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:24:20Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:25:09Z._
