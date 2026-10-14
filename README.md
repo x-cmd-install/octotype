@@ -36,7 +36,7 @@ Total: **24,581** lines of code across **41** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 102 · **Forks**: 2 · **Open issues**: 20 · **Contributors**: 2
+- **Stars**: 103 · **Forks**: 2 · **Open issues**: 20 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **24,581** lines of code across **41** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-15 | 0 | 1 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-16 | 0 | 11 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-18 | 4 | 39 | 0 | 3 | 1 | 0 |
-| last720d | 2024-10-23 | 9 | 48 | 0 | 15 | 5 | 260 |
+| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-07-16 | 0 | 1 | 0 | 0 | 0 | 2 |
+| last180d | 2026-04-17 | 0 | 11 | 0 | 0 | 0 | 11 |
+| 360d | 2025-10-19 | 4 | 38 | 0 | 3 | 1 | 60 |
+| last720d | 2024-10-24 | 9 | 48 | 0 | 15 | 5 | 260 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for octotype lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:29:03Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:33:36Z._
